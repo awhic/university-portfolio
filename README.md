@@ -9,7 +9,7 @@ Git Bash terminal with the following command:
 ```bash
 git clone https://github.com/awhic/university-portfolio.git
 ```
-
+Note: All documents are in PDF form, and can be previewed within Github.com, without the need to download.
 This portfolio is broken up into 4 parts: 
 - Analytics
   - A demonstration of proficiencies regarding analysis and the filtering of data into qualitative information.
