@@ -13,7 +13,7 @@ git clone https://github.com/awhic/university-portfolio.git
 ```
 This portfolio is broken up into 4 parts: 
 - Analytics
-  - A demonstration of proficiencies regarding analysis and the filtering of data into qualitative information.
+  - Demonstrations of proficiency regarding analysis and the filtering of data into qualitative information.
 - CIS Technical Knowledge and Skills
   - A collection of documents highlighting relational database, object-oriented programming, telecommunications, and systems analysis and design proficiency.
   - Included are: certifications, entity relationship diagrams (ERDs), fleshed out databases using SQL in Microsoft Access, and systems analysis methodology documents.
